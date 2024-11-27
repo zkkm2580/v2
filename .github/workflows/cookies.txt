@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# This is a generated file!  Do not edit.
+
+#Domain    .youtube.com    TRUE    /    FALSE    1737660429    __Secure-3PSID    g.a000qgiD2mLRLD9GiGY_MY7yzLiHxtxBBgrr-GMpP3M6WETqzWijNVC9PsTsv-iM2I3PpSaRrQACgYKAagSARQSFQHGX2MiMVNpzTbOdf53Q-F86cwemhoVAUF8yKoDB9_WwwqF0JqGPXI6sU4p0076
+#Domain    .youtube.com    TRUE    /    FALSE    1737660429    __Secure-3PAPISID    hoWJPWPkqV79w21K/AhadNQ6LzXYtQF_ZJ
+#Domain    .youtube.com    TRUE    /    FALSE    1737660429    YSC    VA8Z_kxO7y0
+#Domain    .youtube.com    TRUE    /    FALSE    1737660429    SID    g.a000qgiD2mLRLD9GiGY_MY7yzLiHxtxBBgrr-GMpP3M6WETqzWij-pL2kJMF2llHk_DZ3shoOgACgYKASISARQSFQHGX2MilgzF43_YCNtTaYLV4dTrFhoVAUF8yKooMe27mt8I_DM_auoylb_P0076
+#Domain    .youtube.com    TRUE    /    FALSE    1737660429    HSID     ADQxBhJkUfagTLA0o
